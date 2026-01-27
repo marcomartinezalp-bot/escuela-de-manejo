@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+h1, h2{
+    font-size: 50px;
+    color: yellow;
+    text-align: center;
+    
+}
+p{
+    font-size: 35px;
+    color: white;
+    text-align: center;
+}
+.nota{
+    font-size: 25px;
+    color: yellow;
+    text-align: center;
+}
+
+
+li{
+    color: white;
+}
+.cuchara{
+    font-size: 20px;
+}
+ul{
+    list-style-type: disc;
+    font-size: 20px;
+    
+}
+.a{
+    list-style-type: none;
+}
+.e{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background-image: url(fundo-de-textura-escura-moderna_1035-11632.avif);
+}
+img{
+    
+    width: 400px;
+
+    margin: 0px 35%;
+}
+a{
+    color: yellow;
+}
+.info{
+    text-align: center;
+}
